@@ -1,0 +1,5 @@
+{
+  "name": "우리반 자리 바꾸기",
+  "description": "학생 이름표를 마우스로 끌어다 놓아 교실 자리를 쉽게 바꿀 수 있는 자리 배치 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
